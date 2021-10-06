@@ -1,4 +1,4 @@
-package com.mianasad.pico;
+package com.chowdhuryavijit.vedit;
 
 import org.junit.Test;
 

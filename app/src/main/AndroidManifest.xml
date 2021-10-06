@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mianasad.pico">
+    package="com.chowdhuryavijit.vedit">
     <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -20,8 +20,8 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-4796412611528305~5983383135"/>
 
-        <activity android:name=".ResultActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.chowdhuryavijit.vedit.ResultActivity"></activity>
+        <activity android:name="com.chowdhuryavijit.vedit.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

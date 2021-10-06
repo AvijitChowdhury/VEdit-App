@@ -1,4 +1,4 @@
-package com.mianasad.pico;
+package com.chowdhuryavijit.vedit;
 
 import android.os.Bundle;
 
@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.mianasad.pico.databinding.ActivityResultBinding;
+import com.chowdhuryavijit.vedit.databinding.ActivityResultBinding;
 
 public class ResultActivity extends AppCompatActivity {
 
